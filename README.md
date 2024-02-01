@@ -1,5 +1,7 @@
 KARKS SESSION EXPIRATION
+
 by Eric Karkovack
+
 https://www.karks.com
 
 A custom plugin that reduces the life of WordPress user sessions for administrators. It trades a tiny bit of convenience for increased security.
