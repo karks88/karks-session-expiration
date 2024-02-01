@@ -11,7 +11,7 @@ By default, WordPress user sessions expire after 48 hours. This plugin reduces t
 
 <strong>WHY CHANGE THE SESSION LIFE?</strong>
 
-Stolen user session cookies is a common vector of attack for malicious actors. A cookie could allow someone to access your website without login credentials. From there, they can cause all sorts of damage.
+Stolen user session cookies are a common vector of attack for malicious actors. A cookie could allow someone to access your website without login credentials. From there, they can cause all sorts of damage.
 
 This plugin reduces the life of Administrator user sessions to 2 (two) hours. Thus, reducing the opportunity for a hacker to access the back end of your site.
 
