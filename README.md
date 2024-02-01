@@ -8,6 +8,8 @@ A custom plugin that reduces the life of WordPress user sessions for administrat
 
 By default, WordPress user sessions expire after 48 hours. This plugin reduces that to 2 (two) hours for users with the Administrator role.
 
+Note: Use this plugin at your own risk. It's meant to be a starting point for something more robust down the road.
+
 
 <strong>WHY CHANGE THE SESSION LIFE?</strong>
 
