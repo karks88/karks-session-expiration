@@ -20,5 +20,4 @@ HOW CAN I CHANGE THE DEFAULT SESSION TIME TO SOMETHING ELSE?
 
 Change the default number '2' to any amount you wish:
 
-  // Set the expiration time to 2 hours from now
 		$expiration = 2 * HOUR_IN_SECONDS;
