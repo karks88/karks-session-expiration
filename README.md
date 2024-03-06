@@ -13,7 +13,7 @@ Note: Use this plugin at your own risk. It's meant to be a starting point for so
 
 <strong>WHY CHANGE THE SESSION LIFE?</strong>
 
-Stolen user session cookies are a common vector of attack for malicious actors. A cookie could allow someone to access your website without login credentials. From there, they can cause all sorts of damage.
+<a href="https://speckyboy.com/always-log-out-of-wordpress/">Stolen user session cookies</a> are a common vector of attack for malicious actors. A cookie could allow someone to access your website without login credentials. From there, they can cause all sorts of damage.
 
 This plugin reduces the life of Administrator user sessions to 2 (two) hours. Thus, reducing the opportunity for a hacker to access the back end of your site.
 
